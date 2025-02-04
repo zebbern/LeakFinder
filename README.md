@@ -1,12 +1,6 @@
 # LeakFinder
 **Credential Leak Detection using Chrome DevTools & Burp Suite**
 
-## Overview
-
-This guide provides step-by-step instructions to search for leaked credentials using **Google Chrome's Developer Tools** and **Burp Suite**, leveraging regex for efficient detection.
-
----
-
 ## 🔍 Using Google Chrome Developer Tools
 
 1. **Open DevTools:**  

@@ -55,7 +55,7 @@ This guide provides step-by-step instructions to search for leaked credentials u
 
 ---
 
-## ⚠️ Disclaimer
 
+> [!warning]
 This guide is intended for ethical security research and penetration testing within **authorized** environments only. Unauthorized use may violate legal and ethical boundaries.
 

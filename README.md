@@ -49,6 +49,7 @@
 
 ---
 
+## All Credits To [h4x0r-dz](https://github.com/h4x0r-dz/Leaked-Credentials) For Providing This Information
 
 > [!warning]
 This guide is intended for ethical security research and penetration testing within **authorized** environments only. Unauthorized use may violate legal and ethical boundaries.

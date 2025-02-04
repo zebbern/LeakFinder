@@ -1,6 +1,7 @@
 # LeakFinder
 **Credential Leak Detection using Chrome DevTools & Burp Suite**
-
+> [!Note]
+> All Credits To [h4x0r-dz](https://github.com/h4x0r-dz/Leaked-Credentials) For Providing This Information
 ## 🔍 Using Google Chrome Developer Tools
 
 1. **Open DevTools:**  
@@ -48,8 +49,6 @@
    - Review the search results for credential leaks.
 
 ---
-
-## All Credits To [h4x0r-dz](https://github.com/h4x0r-dz/Leaked-Credentials) For Providing This Information
 
 > [!warning]
 This guide is intended for ethical security research and penetration testing within **authorized** environments only. Unauthorized use may violate legal and ethical boundaries.

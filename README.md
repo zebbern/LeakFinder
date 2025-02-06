@@ -47,4 +47,10 @@
 
 ---
 > [!Note]
-> All Credits To [h4x0r-dz](https://github.com/h4x0r-dz/Leaked-Credentials) For Providing This Informatio
+> All Credits To [h4x0r-dz](https://github.com/h4x0r-dz/Leaked-Credentials) For Providing This Information
+
+<hr>
+
+> [!WARNING]  
+> These is intended for educational and ethical hacking purposes only. It should only be used to test systems you own or have explicit permission to test. Unauthorized use of third-party websites or systems without consent is illegal and unethical.
+

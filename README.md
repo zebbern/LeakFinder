@@ -1,5 +1,5 @@
 # LeakFinder
-## 🔍 Using Developer Tools
+## 🔐 Using Developer Tools
 
 1. **Open DevTools:**  
    - Press `Ctrl+Shift+I` (Windows/Linux) or `Cmd+Option+I` (macOS).
